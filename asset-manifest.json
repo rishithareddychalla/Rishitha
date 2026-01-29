@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Rishitha/static/css/main.9bfbc843.css",
+    "main.js": "/Rishitha/static/js/main.16050daf.js",
+    "index.html": "/Rishitha/index.html",
+    "main.9bfbc843.css.map": "/Rishitha/static/css/main.9bfbc843.css.map",
+    "main.16050daf.js.map": "/Rishitha/static/js/main.16050daf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bfbc843.css",
+    "static/js/main.16050daf.js"
+  ]
+}
